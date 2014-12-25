@@ -1,0 +1,14 @@
+main: net.theviolentsquirrels.main.Main
+name: Claims
+author: TorkatoR
+version: 1.0
+commands:
+   claim:
+      description: Lets a player bunch of commands to manage claims.
+      usage: /<command>
+   chunk:
+         description: Lets a player bunch of commands to manage chunks.
+         usage: /<command>
+   city:
+         description: Lets a player bunch of commands to manage cities.
+         usage: /<command>
